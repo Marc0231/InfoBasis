@@ -1,0 +1,27 @@
+# Grundbegriffe der Datentechnik
+
+## Netzwerktechnik
+Ein Computernetzwerk ist ein zusammenschluss aus mindestens zwei Computern, egal ob per Kabel, Internet oder Satellit. Es gibt auch zwei Netzwerkstrukturen, diese wären P2p (Peer-to-Peer) unnd Client-Server. Bei Peer-to-Peer ist jeder im Netzwerk gleichzeitig Client und Server, bei Client-Server gibt es nur einen Server auf den die Clients zugreifen können. Es gibt außerdem auch verschiedene Computernetzwerke wie z.B PAN (Personal Area Network), LAN (Local Area Network), WAN (Wide Area Network), MAN (Metroploian Area Network) und GAN (Global Area Network). Jedes unterscheidet sich durch Reichweite und Übertragungsmedium. PAN wäre z.B maximal 10 Meter via. Bluetooth. Das GAN und somit das größte würde über die ganze Welt sich verbreiten z.B. via. Satellit oder Unterseekabel.
+
+## Daten und Informationen
+Daten und Informationen kann man mit einem einzigen und simplen Beispiel beschreiben. Person A trägt ein schwarzes T-shirt. Das sind die Daten, die Information wäre das Person A dieses T-shirt besitzt. Oder Person A hat eine schwarze Katze als Haustier. Das wären die Daten dazu und die Information wäre das Person A eine Katze besitzt. Der unterschied zwischen Daten und Informationen liegt darin, das man Daten nicht Interpretieren kann. Wie z.B im ersten Beispiel ist es klar das das T-shirt schwarz ist, aber die Information das es Person A nicht gehört wäre zum interpretieren.
+
+## Dateiformate
+Es gibt drei verschiedene Dateiformate die wir heute kennengelernt haben: CSV ( Comma- seperated values), JSON (Javascript object notation) und XML (Exensible markup language). CSV ist ein Tabellen format und wird häufig in Tabellenkalkulationen verwendet, die Werte werden durch ein Komma getrennt. XML ist eine Markup-Sprache für hierarchische Datenstrukturen, es ist gut lesbar, flexibel und für den Austausch von Daten zwischen Systemen geeignet. JSON basiert auf JavaScript und ist ein Leichtgewichtiges Datenformat für den Datenaustausch, es ist lesbar, gut strukturiert, kompakt und effizient.
+
+## Datencodierung
+Computer arbeiten mit einem Sogennanten Binärcode, dieser setzt sich nur aus zwei Ziffern zusammen, 0 und 1 oder auch "aus" und "ein". Mit diesem Arbeiten und Interpretieren die heutigen Computer. Anhand der ASCII Encodierung können wir folgende Beispiele nennen: ’A’ = 01000001, ’9’ = 00111001, ’#’ = 00100011. Andere Entcodierungs Programme wären z.B UTF-8 oder UTF-16 aber auch Unicode. Diese arbeiten nach einem gewissen Standard der festgelegt wird von den Programmen. Diese Entcodieren dann den Binärcode und wandel ihn in unsere Texte um, sie wandeln nicht nur um sonder übersetzen dazu noch.
+
+## Signale und Signalverarbeitung
+Es gibt zwei verschiedene Arten von Signalen, Analog und Digital. Analog verändert sich kontinuierlich und bleib nie gleich, wie z.B Raumtemperatur, Schallfrequenz oder Radiowellen. Digital hat nur zwei Zustände, entweder es ist an oder aus. Beispiele dafür wären das Betätigen eines Lichtschalters oder das abdrehen eines Wasserhahnes. Man kann außerdem ein analoges Signal in ein Digitales konvertieren und genau so umgekehrt. Man kann auch graphisch darstellen wie man Radiowellen von Analog in Digital konvertiert. Man kann diese Signale ganz einfach darstellen: Analog ist eine Schwingung bzw. eine Welle und ein Digitales Signal geht entweder nach oben oder unten.
+
+## Datenschutz
+Daten kann man durch Verschlüsselungen oder auch durch eine Firewall schützen. Die Firewall ist essenziell damit man seinen PC vor gefährlichen Viren im Internet schützt. Ansonsten kann man sich ganz einfach eine Trojaner, Keylogger oder andere Schadsoftware auf seinen Rechner holen. Um den besten Schutz zu haben sollte man auch ständig seine Software und sein Anti-Viren Programm aktualisieren und updaten. Zum extra Schutz könnte man auch z.B einen VPN im Internet verwenden und dann einfach und sicherer surfen. Noch eine Art sich besser zu schützen wären: Ein sicheres Passwort, keine Sensiblen Daten teilen und auf gar keinen Fall unsichere Websiten besuchen.
+
+### Verschlüsselung & Entschlüsselung
+Es gibt grundsätzlich zwei verschieden Verschlüsselungen die wir heute kennengelernt haben, die Asynchrone und Synchrone Verschlüsselung. Bei einer Verschlüsselung wird z.B ein Text oder ein Bild mit einem Schlüssel kombiniert und daraus wird ein Chiffre. Dieses Chiffre wird vom Sender ausgeschickt und beim Empfänger dann wieder durch den gleichen Schlüssel entschlüsselt. Bei der Synchronen Verschlüsselung gibt es am Ende nur einen passenden Schlüssel für das Chiffre. Bei der asynchronen gibt es zwei oder drei oder vllt auch 6, das kann dann einfach variieren. Am Ende muss man nur den richtigen haben um das Chiffre zu entschlüsseln und zu lesen.
+
+### Rechtslage von Datennutzung
+In der sogennaten AGB (Allgemeine Geschäftsbedingungen) steht alles drin was Nutzerdaten angeht. Um eine App wie z.B Instgram nutzen zu können, muss man Anfang immer die AGB bestätigen, darin steht das "META" also Instagram deine Daten für alles benutzen darf was in der AGB steht. Deine Daten zu speichern, oder auch an Dritte weiterzugeben. Cookies z.B machen etwas völlig anderes, diese Speichern nämlich nur deine Aktivitäten auf Websites und nicht deine Persönlichen Daten, dafür muss man nochmal etwas anderes Bestätigen, wie z.B kommt dann einfach ein kleines Fenster wo ungefähr so ein Text drin steht: "Daten für das nächste mal Speichern?"
+
+
