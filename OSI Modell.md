@@ -5,13 +5,13 @@ Das Osi Modell ist ein Modell das logisch und einfach den aufbau von Netzwerken 
 
 ## Die 7 Schichten
 
-7. Application Layer
-6. Presentation Layer
-5. Session Layer
-4. Transport Layer
-3. Network Layer
-2. Data Link Layer
 1. Physical Layer
+2. Data Link Layer
+3. Network Layer
+4. Transport Layer
+5. Session Layer
+6. Presentation Layer
+7. Application Layer
 
 Diese lassen sich in zwei Abschnitte Teilen: 1-4 sind die Transportorientierten Schichten und 4-7 sind die Anwendungsorientierten Schichten. Für uns als Systemtechniker sind die Anwendungsschichten die Wichtigsten. Anwendugsorientiert sind für die verarbeitung von Informationen zuständig und die Transport Schichten für den Transport von Informationen.
 
