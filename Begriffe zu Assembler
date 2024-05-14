@@ -1,0 +1,102 @@
+### Fachbegriffe
+
+
+## High Level Programming Language
+
+Beispiele: Java, Python, JavaScript
+
+Sie sind darauf ausgelegt, für Menschen lecihter zu lesen und zu schreiben zu sein, im Gegensatz zu Low-Level-Sprachen, die näher an der Maschinensprache liegen und für Computer leichter zu verstehen sind.
+
+## Assembly Language
+
+Beispiele: MIPS, ARM, SPARC
+
+Diese sind Low-Level-Programmiersprachen, die eng mit der MAschinensprache des Computers verbunden sind und in der Regel direkt in Maschinencode übersetzt werden.
+
+## Machine Language
+
+Beispiele: MIPS, ARM, PowerPC
+
+Die Maschinensprache ist die grundlegendste Form von Computerprogrammiersprachen, die direkt von der CPU eines Computers verstanden wird. Sie besteht aus einer Folge von Binärzahlen, die jeweils eine bestimmte Maschinenanweisung repräsentieren. Da sie direkt von der Hardware verstanden wird, variiert die Maschinensprache je nach Prozessorarchitektur
+
+
+### Konzepte
+
+
+## Control Unit
+
+Die Control Unit (Steuereinheit) einer CPU ist für die Befehlsdekodierung, Befehlsausführung, Steuerung der Datenflüsse, Verwaltung der Befehlssequenz und Behandlung von Unterbrechungen verantwortlich. Kurz gesagt, sie steuert und koordiniert die Abläufe innerhalb der CPU.
+
+## Arithmetic/Logic Unit
+
+Die Arithmetic/Logic Unit (ALU) ist das Herzstück der CPU, das arithmetische und logische Operationen ausführt, wie Addition, Subtraktion, Multiplikation, Division sowie logische Operationen wie AND, OR und NOT.
+
+## Memory Unit
+
+Die Memory Unit (Speichereinheit) einer CPU speichert Daten und Anweisungen temporär während der Programmausführung in verschiedenen Speicherarten wie Registerspeicher, Cache und Hauptspeicher.
+
+## Was sind Register, was sind Addressen
+
+Register sind kleine Speichereinheiten in der CPU, die Daten und Anweisungen während der Programmausführung temporär halten. Adressen identifizieren eindeutig Speicherorte und werden verwendet, um auf Daten und Anweisungen im Speicher zuzugreifen.
+
+# Bild dazu: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.computerhope.com%2Fjargon%2Fc%2Fcontunit.htm&psig=AOvVaw2sgcmrXe1BLEV5PuGmN7UO&ust=1715779896215000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjNzaugjYYDFQAAAAAdAAAAABAP
+
+### Assemblersprache
+
+
+## Instruction
+
+Ein Befehl für den Prozessor.
+
+## Mnemonic
+
+Ein für den Menschen lesbares Kürzel für einen Befehl einer Assemblersprache.
+
+## Instruction Encoding
+
+Das Umwandeln von den Befehlen.
+
+## Instruction Format
+
+Gibt an wie Befehle encodiert werden und in Maschinen Sprache übersetzt werden.
+
+## OPCode
+
+Ist eine Zahl, die die Nummer eines Maschinenbefehls für einen bestimmten Prozessortyp angibt.
+
+## Register
+
+Ist ein Speicherbereich in einem Prozessor für verschieden Daten auf die der Prozessor besonders schnell zugreifen kann.
+
+## Memory Address
+
+Speicheradressen dienen zur eindeutigen Bezeichnung von Speicherzellen im Hauptspeicher eines Computers.
+
+
+
+### Instruktionskategorien
+
+
+## Arithmetic
+
+Führen Arithmetische Operationen wie Subtraktion, Addition oder Multiplikation aus.
+
+## Move
+
+Diese Instruktionen kopieren Daten von einem Speicherort in einen anderen, oft zwischen Registern und Speicher.
+
+## Shift
+
+Diese Instruktionen verschieben die Bitmuster von Daten nach links oder rechts, was dazu verwendet wird, Multiplikationen und Divisionen durch Potenzen von 2 zu realisieren.
+
+## Load
+
+Diese Instruktionen laden Daten aus dem Speicher in einen Prozessorregister.
+
+## Control
+
+Diese Instruktionen steuern den Programmfluss, einschließlich bedingter Verzweigungen und Sprünge.
+
+## Memory
+
+Diese Instruktionen ermöglichen den direkten Zugriff auf den Speicher, um Daten zu lesen oder zu schreiben.
